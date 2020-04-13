@@ -1,0 +1,18 @@
+﻿Build started 2/21/2015 6:41:46 PM.
+     1>Project "C:\Users\OMGCHIPOTLE\Desktop\Yahtzee_1.42\Yahtzee\Yahtzee.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ToImplement.cpp
+         ToImplement.cpp
+     1>c:\users\omgchipotle\desktop\yahtzee_1.42\yahtzee\toimplement.cpp(321): warning C4715: 'isValidOption_3OfAKind' : not all control paths return a value
+     1>c:\users\omgchipotle\desktop\yahtzee_1.42\yahtzee\toimplement.cpp(152): warning C4715: 'getCharInRange' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\OMGCHIPOTLE\Desktop\Yahtzee_1.42\Debug\Yahtzee.exe" /INCREMENTAL /NOLOGO YahtzeeLib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\OMGCHIPOTLE\Desktop\Yahtzee_1.42\Debug\Yahtzee.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\OMGCHIPOTLE\Desktop\Yahtzee_1.42\Debug\Yahtzee.lib" /MACHINE:X86 Debug\Provided.obj
+         Debug\TestFile.obj
+         Debug\ToImplement.obj
+         Debug\YahtC++Main.obj
+         Yahtzee.vcxproj -> C:\Users\OMGCHIPOTLE\Desktop\Yahtzee_1.42\Debug\Yahtzee.exe
+     1>Done Building Project "C:\Users\OMGCHIPOTLE\Desktop\Yahtzee_1.42\Yahtzee\Yahtzee.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.68
